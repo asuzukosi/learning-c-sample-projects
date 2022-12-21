@@ -1,0 +1,2 @@
+Using C language to create a student management system. To handle students’ records (like Student’s roll number, Name, Subject, etc.) it employs files as a database to conduct file handling activities such as add, search, change, and remove entries. It appears a simple project but can be handy for schools or colleges that have to store records of thousands of students.
+
